@@ -13,7 +13,7 @@ body {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    border: 1px solid green;
+    border: 1px solid rgba(33, 13, 65, 0.007);
 }
 
 .logo-content {
@@ -32,12 +32,12 @@ body {
     font: normal normal bold 20px/25px Montserrat;
     font-family: "Montserrat", sans-serif;
     letter-spacing: 0px;
-    color: #82a70c;
+    color: #129160;
     text-transform: capitalize;
 }
 
 .add-book { 
-    color: #42515f;
+    color: #55171a;
  }
 
 * { box-sizing: border-box;}
@@ -48,7 +48,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 0px solid green;
+    border: 0px solid rgb(89, 146, 36);
 }
 
 .form {
@@ -77,7 +77,7 @@ body {
     flex-direction: row;
     margin-bottom: 10px;
     align-items: center;
-    border: 0px solid green;
+    border: 0px solid rgb(116, 26, 61);
 }
 
 .label {
@@ -91,7 +91,7 @@ label {
 
 .text {
     font-size: 16px;
-    color: #42515f;
+    color: #285783;
     opacity: 1;
     font-family: Roboto;
 }
@@ -122,7 +122,7 @@ label {
     font-weight: 400;
     min-width: 140px;
     padding: 7px 7px;
-    border: 1px solid #707070;
+    border: 1px solid #8f0f0f;
     cursor: pointer;
 }
 
